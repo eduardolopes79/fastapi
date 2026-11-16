@@ -1,4 +1,4 @@
-# fastapi_zero
+# FastAPI
 
 API REST em FastAPI para gerenciamento de tarefas, com cadastro de usuários.
 
